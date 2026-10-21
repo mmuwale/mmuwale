@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Currently a 2nd year student at Strathmore University, Nairobi, Kenya
+- 🔭 Currently a 3rd year student at Strathmore University, Nairobi, Kenya
 - 🌱 Pursuing a **Bachelor's in Informatics and Computer Science**
 - 👯 Looking forward to collaborate on **software development and data analytics projects**
 - 💬 Ask me about **digital logic, statistics, programming**
